@@ -6,7 +6,8 @@ Dibuat dengan [gorm](gorm.io), [chi router](https://github.com/go-chi/chi), dan 
 
 Install dengan `git clone` dan `go get ./...`<br>
 Jalankan dengan `go run .`<br>
-tambahkan args `seed` untuk mengisi database, atau `reset` untuk reset database.
+tambahkan args `seed` untuk mengisi database, atau `reset` untuk reset database.<br>
+Tersedia Postman collection untuk testing
 
 
 ---
